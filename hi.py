@@ -1,1 +1,6 @@
-print("fhfhfhf")
+name=input("your name :")
+age=input("your age :")
+x= "Hello %s" %(name)
+y= "my Age %s" %(age)
+print(x)
+print(y)
